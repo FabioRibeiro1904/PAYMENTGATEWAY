@@ -9,12 +9,6 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
-![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen?style=for-the-badge)
-![Test Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?style=for-the-badge)
-![Security](https://img.shields.io/badge/security-A%2B-brightgreen?style=for-the-badge)
-![Performance](https://img.shields.io/badge/performance-excellent-brightgreen?style=for-the-badge)
-
 </div>
 
 ## Visão Geral
