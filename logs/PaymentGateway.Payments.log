@@ -1,0 +1,30 @@
+🔗 Redis connection successful
+Infrastructure detected! Using real Kafka and Redis services
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5077
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Payments
+info: PaymentGateway.Payments.Hubs.TransactionHub[0]
+      Client connected: YZ1g_qEQhUOtRbAABStXdA
+info: PaymentGateway.Payments.Hubs.TransactionHub[0]
+      User teste@gmail.com joined group user_teste@gmail.com
+info: PaymentGateway.Payments.Hubs.TransactionHub[0]
+      Client disconnected: YZ1g_qEQhUOtRbAABStXdA
+info: PaymentGateway.Payments.Hubs.TransactionHub[0]
+      Client connected: wjY1BU_GXmTEUiFEfPwQ1Q
+info: PaymentGateway.Payments.Hubs.TransactionHub[0]
+      User teste@gmail.com joined group user_teste@gmail.com
+info: PaymentGateway.Payments.Hubs.TransactionHub[0]
+      Client disconnected: wjY1BU_GXmTEUiFEfPwQ1Q
+info: PaymentGateway.Payments.Hubs.TransactionHub[0]
+      Client connected: HeWtwBZk_eY7aI7-7k_5LA
+info: PaymentGateway.Payments.Hubs.TransactionHub[0]
+      User teste@gmail.com joined group user_teste@gmail.com
+info: PaymentGateway.Payments.Hubs.TransactionHub[0]
+      Client disconnected: HeWtwBZk_eY7aI7-7k_5LA
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...

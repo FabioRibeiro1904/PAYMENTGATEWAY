@@ -1,0 +1,116 @@
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/appsettings.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway.staticwebassets.endpoints.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway.deps.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway.runtimeconfig.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Pipelines.Sockets.Unofficial.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.AspNetCore.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Sinks.File.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/StackExchange.Redis.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/System.IO.Hashing.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Yarp.ReverseProxy.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.csproj.AssemblyReference.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.AssemblyInfoInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.AssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.csproj.CoreCompileInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/scopedcss/bundle/PaymentGateway.ApiGateway.styles.css
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets.build.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets.development.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets/msbuild.PaymentGateway.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets/msbuild.PaymentGateway.ApiGateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets/msbuild.build.PaymentGateway.ApiGateway.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.PaymentGateway.ApiGateway.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.PaymentGateway.ApiGateway.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentG.1CFAF752.Up2Date
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/refint/PaymentGateway.ApiGateway.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.genruntimeconfig.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/ref/PaymentGateway.ApiGateway.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.csproj.AssemblyReference.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.AssemblyInfoInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.AssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.csproj.CoreCompileInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/refint/PaymentGateway.ApiGateway.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/appsettings.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway.staticwebassets.endpoints.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway.deps.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway.runtimeconfig.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.ApiGateway.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Pipelines.Sockets.Unofficial.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.AspNetCore.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Serilog.Sinks.File.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/StackExchange.Redis.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/System.IO.Hashing.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/Yarp.ReverseProxy.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/scopedcss/bundle/PaymentGateway.ApiGateway.styles.css
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets.build.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets.development.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets/msbuild.PaymentGateway.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets/msbuild.PaymentGateway.ApiGateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets/msbuild.build.PaymentGateway.ApiGateway.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.PaymentGateway.ApiGateway.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.PaymentGateway.ApiGateway.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentG.1CFAF752.Up2Date
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.genruntimeconfig.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/ref/PaymentGateway.ApiGateway.dll

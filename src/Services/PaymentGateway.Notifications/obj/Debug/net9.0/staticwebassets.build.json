@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1f9pejE3v0Owmy/UwOB5hRtiKv7WUifTioyuKBCpaZY=",
+  "Source": "PaymentGateway.Notifications",
+  "BasePath": "_content/PaymentGateway.Notifications",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

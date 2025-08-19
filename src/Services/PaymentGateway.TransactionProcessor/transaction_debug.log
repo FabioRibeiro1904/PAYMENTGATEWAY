@@ -1,0 +1,250 @@
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Initialized 5 test users for transaction processing
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.TransactionProcessor
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR connection established
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Kafka consumer started, listening to topic: payment-transactions
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 8fb311de-fe74-48a3-b19b-bc5c70f1c022
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+warn: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ⚠️ Recipient not found: 12345-6-87654321-09
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction e610d3ac-65ca-4e25-b94b-c2defc5dac38
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+warn: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ⚠️ Recipient not found: 12345-6-87654321-09
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 907e4750-5f2a-473e-bf12-89fe51b2aeb6
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+warn: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ⚠️ Recipient not found: 12345-6-87654321-09
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction dd71736b-57a7-42a3-836f-2efac0b058a1
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+warn: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ⚠️ Recipient not found: 12345-6-87654321-09
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 314b4ea6-dbfb-4a73-a8a2-a4ae7f91b55f
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 50.00 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction 314b4ea6-dbfb-4a73-a8a2-a4ae7f91b55f, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction 314b4ea6-dbfb-4a73-a8a2-a4ae7f91b55f
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction b32e35b0-217f-4bdb-9122-9b1c8f987bdb
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 5 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction b32e35b0-217f-4bdb-9122-9b1c8f987bdb, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction b32e35b0-217f-4bdb-9122-9b1c8f987bdb
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 0f52731e-eb54-466b-93c1-15e73b42a75d
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 0.85 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction 0f52731e-eb54-466b-93c1-15e73b42a75d, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction 0f52731e-eb54-466b-93c1-15e73b42a75d
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 70ce046d-4d39-473b-b3f6-a98591b184f8
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 25.00 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction 70ce046d-4d39-473b-b3f6-a98591b184f8, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction 70ce046d-4d39-473b-b3f6-a98591b184f8
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction f19094ee-087b-4d69-95bc-7d1745dbd618
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 1.17 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction f19094ee-087b-4d69-95bc-7d1745dbd618, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction f19094ee-087b-4d69-95bc-7d1745dbd618
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 229b9690-3db6-4b55-a84b-d5257800a62a
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 2.50 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction 229b9690-3db6-4b55-a84b-d5257800a62a, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction 229b9690-3db6-4b55-a84b-d5257800a62a
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction cbf81de4-9672-41c9-a35f-0edaa3c65518
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+warn: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ⚠️ Recipient not found: 12345-6-87654321-09
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction a801a4a5-6476-487e-af48-891557689b0a
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 15.00 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction a801a4a5-6476-487e-af48-891557689b0a, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction a801a4a5-6476-487e-af48-891557689b0a
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 4d8a2d66-a3c7-417d-a31b-06be4edf7c20
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 1 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction 4d8a2d66-a3c7-417d-a31b-06be4edf7c20, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction 4d8a2d66-a3c7-417d-a31b-06be4edf7c20
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 6c5517c6-8e05-4138-92c0-6fdd2847dcb3
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 49 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction 6c5517c6-8e05-4138-92c0-6fdd2847dcb3, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction 6c5517c6-8e05-4138-92c0-6fdd2847dcb3
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction a50afffb-1bf4-4672-9f03-2f3b9ff2d817
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 100 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction a50afffb-1bf4-4672-9f03-2f3b9ff2d817, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction a50afffb-1bf4-4672-9f03-2f3b9ff2d817
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 0b68784d-1c67-4d2e-aa84-2c4113feaad8
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 1 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction 0b68784d-1c67-4d2e-aa84-2c4113feaad8, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction 0b68784d-1c67-4d2e-aa84-2c4113feaad8
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction facd21a7-6fb1-4f4d-9933-c56c759afeba
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 110 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction facd21a7-6fb1-4f4d-9933-c56c759afeba, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction facd21a7-6fb1-4f4d-9933-c56c759afeba
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 15ca4b9d-6cb1-40a2-ad22-87778adede22
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 0.95 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction 15ca4b9d-6cb1-40a2-ad22-87778adede22, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction 15ca4b9d-6cb1-40a2-ad22-87778adede22
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction c9215258-6d22-413e-bde1-4c4720f35fc4
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 9.27 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction c9215258-6d22-413e-bde1-4c4720f35fc4, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction c9215258-6d22-413e-bde1-4c4720f35fc4
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction cf29f3cf-7cd0-4f65-a02b-c41d9d3d7b38
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 1.27 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction cf29f3cf-7cd0-4f65-a02b-c41d9d3d7b38, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction cf29f3cf-7cd0-4f65-a02b-c41d9d3d7b38
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction b2e80daf-7576-4841-a11b-e4f419a0881c
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+warn: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ⚠️ Recipient not found: 12345-6-87654321-09
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction da4f2961-1bb5-407d-9c62-6314d9859bea
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+warn: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ⚠️ Recipient not found: 12345-6-87654321-09
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction bd047ab9-e87e-45b9-817b-250941b55aa3
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 5 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction bd047ab9-e87e-45b9-817b-250941b55aa3, status: Completed
+warn: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ⚠️ SignalR connection is not active. State: Reconnecting. Attempting to reconnect...
+warn: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ⚠️ SignalR connection is in Reconnecting state, cannot send notification
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction bd047ab9-e87e-45b9-817b-250941b55aa3

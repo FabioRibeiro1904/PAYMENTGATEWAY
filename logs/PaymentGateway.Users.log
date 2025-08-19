@@ -1,0 +1,22 @@
+warn: Microsoft.AspNetCore.Server.Kestrel[0]
+      Overriding address(es) 'http://localhost:5076'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5076
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5075
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Users
+info: PaymentGateway.Users.Controllers.UsersController[0]
+      Registering user: teste@gmail.com
+info: PaymentGateway.Users.Controllers.UsersController[0]
+      Getting user: teste@gmail.com
+info: PaymentGateway.Users.Controllers.UsersController[0]
+      Getting user: teste@gmail.com
+info: PaymentGateway.Users.Controllers.UsersController[0]
+      Getting user: teste@gmail.com
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...

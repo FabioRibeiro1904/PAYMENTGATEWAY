@@ -1,0 +1,4 @@
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.TransactionProcessor/TransactionProcessorService.cs(36,22): error CS1010: Newline in constant [/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.TransactionProcessor/PaymentGateway.TransactionProcessor.csproj]
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.TransactionProcessor/TransactionProcessorService.cs(38,21): error CS1026: ) expected [/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.TransactionProcessor/PaymentGateway.TransactionProcessor.csproj]
+
+The build failed. Fix the build errors and run again.

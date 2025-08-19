@@ -1,0 +1,76 @@
+syntax = "proto3";
+
+option csharp_namespace = "PaymentGateway.Users.Grpc";
+
+package users;
+
+service UsersService {
+  rpc RegisterUser (RegisterUserRequest) returns (RegisterUserResponse);
+  
+  rpc GetUser (GetUserRequest) returns (GetUserResponse);
+  
+  rpc ValidateUser (ValidateUserRequest) returns (ValidateUserResponse);
+  
+  rpc UpdateBalance (UpdateBalanceRequest) returns (UpdateBalanceResponse);
+  
+  rpc GetUserByAccount (GetUserByAccountRequest) returns (GetUserResponse);
+}
+
+message RegisterUserRequest {
+  string name = 1;
+  string email = 2;
+  string password = 3;
+  string role = 4;
+}
+
+message GetUserRequest {
+  string email = 1;
+}
+
+message ValidateUserRequest {
+  string email = 1;
+  string password = 2;
+}
+
+message UpdateBalanceRequest {
+  string email = 1;
+  double new_balance = 2;
+}
+
+message GetUserByAccountRequest {
+  string agencia = 1;
+  string conta = 2;
+}
+
+message RegisterUserResponse {
+  bool success = 1;
+  string message = 2;
+  BankUser user = 3;
+}
+
+message GetUserResponse {
+  bool success = 1;
+  string message = 2;
+  BankUser user = 3;
+}
+
+message ValidateUserResponse {
+  bool valid = 1;
+  string role = 2;
+  string message = 3;
+}
+
+message UpdateBalanceResponse {
+  bool success = 1;
+  string message = 2;
+  double new_balance = 3;
+}
+
+message BankUser {
+  string email = 1;
+  string name = 2;
+  string role = 3;
+  string agencia = 4;
+  string conta = 5;
+  double balance = 6;
+}

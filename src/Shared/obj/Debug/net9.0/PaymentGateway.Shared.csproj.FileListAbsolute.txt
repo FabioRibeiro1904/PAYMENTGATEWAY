@@ -1,0 +1,22 @@
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/bin/Debug/net9.0/PaymentGateway.Shared.deps.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/bin/Debug/net9.0/PaymentGateway.Shared.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/bin/Debug/net9.0/PaymentGateway.Shared.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.AssemblyInfoInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.AssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.csproj.CoreCompileInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/obj/Debug/net9.0/refint/PaymentGateway.Shared.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Shared/obj/Debug/net9.0/ref/PaymentGateway.Shared.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/bin/Debug/net9.0/PaymentGateway.Shared.deps.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/bin/Debug/net9.0/PaymentGateway.Shared.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/bin/Debug/net9.0/PaymentGateway.Shared.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.AssemblyInfoInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.AssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.csproj.CoreCompileInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/obj/Debug/net9.0/refint/PaymentGateway.Shared.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/obj/Debug/net9.0/PaymentGateway.Shared.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/obj/Debug/net9.0/ref/PaymentGateway.Shared.dll

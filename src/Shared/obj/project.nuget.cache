@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nJ4K/sxvunw=",
+  "success": true,
+  "projectFilePath": "/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/fabiolucioribeiro/.nuget/packages/system.text.json/9.0.0/system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

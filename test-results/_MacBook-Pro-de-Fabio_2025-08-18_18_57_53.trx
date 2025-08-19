@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="0415047c-a427-4839-9aef-236c675fb238" name="@MacBook-Pro-de-Fabio 2025-08-18 18:57:53" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-08-18T18:57:53.4236960-03:00" queuing="2025-08-18T18:57:53.4236960-03:00" start="2025-08-18T18:57:52.4626570-03:00" finish="2025-08-18T18:57:53.4978360-03:00" />
+  <TestSettings name="default" id="dc0284d2-1558-4374-8d6e-a105dc17bf9d">
+    <Deployment runDeploymentRoot="_MacBook-Pro-de-Fabio_2025-08-18_18_57_53" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="3038001c-5c09-4514-b361-ec6abbe7f7be" testId="28610b9a-63db-34ec-1a6e-95b05678742c" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerIntegrationTests.Controller_ShouldHandleConcurrentRequests" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0000252" startTime="2025-08-18T18:57:53.3720800-03:00" endTime="2025-08-18T18:57:53.3720800-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3038001c-5c09-4514-b361-ec6abbe7f7be" />
+    <UnitTestResult executionId="b8a56e92-54b9-4f16-b2c5-ccece27c4b25" testId="0375d458-b45d-b96b-c06f-2b7a0523f72d" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.RegisterUser_InvalidRequest_ShouldHandleGracefully(name: &quot;John&quot;, email: &quot;john@example.com&quot;, password: &quot;&quot;, role: &quot;User&quot;)" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0000174" startTime="2025-08-18T18:57:53.3880230-03:00" endTime="2025-08-18T18:57:53.3880240-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b8a56e92-54b9-4f16-b2c5-ccece27c4b25" />
+    <UnitTestResult executionId="60f36af4-43e8-4f75-b438-a69954aed5ad" testId="4934fecd-9a9c-4619-01a5-4c27bec3bf3d" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.ValidateUser_ValidAdminCredentials_ReturnsValidWithAdminRole" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0001005" startTime="2025-08-18T18:57:53.4005540-03:00" endTime="2025-08-18T18:57:53.4005540-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="60f36af4-43e8-4f75-b438-a69954aed5ad" />
+    <UnitTestResult executionId="48f5009a-3c01-4b78-8c35-eade3839f30b" testId="4e9b8f55-8fbb-8079-06cf-b59f45e40279" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerIntegrationTests.Controller_ShouldHaveCorrectRouting" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0009771" startTime="2025-08-18T18:57:53.3686360-03:00" endTime="2025-08-18T18:57:53.3686450-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="48f5009a-3c01-4b78-8c35-eade3839f30b" />
+    <UnitTestResult executionId="85162601-24b2-47da-a608-e4b2faac769f" testId="5cdcd28f-3c2c-b86b-26e6-e41defcdda7c" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.RegisterUser_InvalidRequest_ShouldHandleGracefully(name: &quot;John&quot;, email: &quot;&quot;, password: &quot;password123&quot;, role: &quot;User&quot;)" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0000883" startTime="2025-08-18T18:57:53.3878620-03:00" endTime="2025-08-18T18:57:53.3878620-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="85162601-24b2-47da-a608-e4b2faac769f" />
+    <UnitTestResult executionId="2c9b6967-422f-4f6c-aece-4c1829cb4cf0" testId="0a1ef3b7-519d-9636-efd5-2f99e9302613" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.GetUser_NonExistentUser_ReturnsNotFound" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0002970" startTime="2025-08-18T18:57:53.3881890-03:00" endTime="2025-08-18T18:57:53.3881890-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c9b6967-422f-4f6c-aece-4c1829cb4cf0" />
+    <UnitTestResult executionId="00273a56-8624-4f72-b19c-e54199cc2b2e" testId="62c5f896-919b-62eb-136a-543ec7dc4b2c" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.RegisterUser_InvalidRequest_ShouldHandleGracefully(name: &quot;&quot;, email: &quot;john@example.com&quot;, password: &quot;password123&quot;, role: &quot;User&quot;)" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0001076" startTime="2025-08-18T18:57:53.3876940-03:00" endTime="2025-08-18T18:57:53.3876940-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00273a56-8624-4f72-b19c-e54199cc2b2e" />
+    <UnitTestResult executionId="57eac356-76e8-40fb-b671-bfb2867567f6" testId="7a4b1100-cede-f4d7-4c27-e265f3c747c8" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.GetUser_ExistingAdminUser_ReturnsUserData" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0000958" startTime="2025-08-18T18:57:53.3883370-03:00" endTime="2025-08-18T18:57:53.3883370-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="57eac356-76e8-40fb-b671-bfb2867567f6" />
+    <UnitTestResult executionId="7951091c-0aaa-4b32-aaf3-fc94e80944dd" testId="ddc01bc0-e20f-153a-2c51-c65ffd789805" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.ValidateUser_InvalidCredentials_ReturnsInvalid" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0005386" startTime="2025-08-18T18:57:53.3874560-03:00" endTime="2025-08-18T18:57:53.3874560-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7951091c-0aaa-4b32-aaf3-fc94e80944dd" />
+    <UnitTestResult executionId="c8bc23ee-d28d-4bad-9613-08c51980fae9" testId="bbff7e89-319f-4a15-47db-e8b4ae95a11c" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.UpdateBalance_ValidRequest_ReturnsOk" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0002643" startTime="2025-08-18T18:57:53.4007500-03:00" endTime="2025-08-18T18:57:53.4007500-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c8bc23ee-d28d-4bad-9613-08c51980fae9" />
+    <UnitTestResult executionId="04a0d5b8-b966-4339-ac9e-f3b9a165c43f" testId="7f278ab2-bb91-6625-74bd-87abf1a10a29" testName="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.RegisterUser_ValidRequest_ReturnsOkWithUserData" computerName="MacBook-Pro-de-Fabio" duration="00:00:00.0251043" startTime="2025-08-18T18:57:53.3868860-03:00" endTime="2025-08-18T18:57:53.3868860-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="04a0d5b8-b966-4339-ac9e-f3b9a165c43f" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerIntegrationTests.Controller_ShouldHandleConcurrentRequests" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="28610b9a-63db-34ec-1a6e-95b05678742c">
+      <Execution id="3038001c-5c09-4514-b361-ec6abbe7f7be" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerIntegrationTests" name="Controller_ShouldHandleConcurrentRequests" />
+    </UnitTest>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.RegisterUser_InvalidRequest_ShouldHandleGracefully(name: &quot;John&quot;, email: &quot;&quot;, password: &quot;password123&quot;, role: &quot;User&quot;)" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="5cdcd28f-3c2c-b86b-26e6-e41defcdda7c">
+      <Execution id="85162601-24b2-47da-a608-e4b2faac769f" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerTests" name="RegisterUser_InvalidRequest_ShouldHandleGracefully" />
+    </UnitTest>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.ValidateUser_InvalidCredentials_ReturnsInvalid" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="ddc01bc0-e20f-153a-2c51-c65ffd789805">
+      <Execution id="7951091c-0aaa-4b32-aaf3-fc94e80944dd" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerTests" name="ValidateUser_InvalidCredentials_ReturnsInvalid" />
+    </UnitTest>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.GetUser_NonExistentUser_ReturnsNotFound" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="0a1ef3b7-519d-9636-efd5-2f99e9302613">
+      <Execution id="2c9b6967-422f-4f6c-aece-4c1829cb4cf0" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerTests" name="GetUser_NonExistentUser_ReturnsNotFound" />
+    </UnitTest>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.UpdateBalance_ValidRequest_ReturnsOk" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="bbff7e89-319f-4a15-47db-e8b4ae95a11c">
+      <Execution id="c8bc23ee-d28d-4bad-9613-08c51980fae9" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerTests" name="UpdateBalance_ValidRequest_ReturnsOk" />
+    </UnitTest>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.RegisterUser_ValidRequest_ReturnsOkWithUserData" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="7f278ab2-bb91-6625-74bd-87abf1a10a29">
+      <Execution id="04a0d5b8-b966-4339-ac9e-f3b9a165c43f" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerTests" name="RegisterUser_ValidRequest_ReturnsOkWithUserData" />
+    </UnitTest>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.RegisterUser_InvalidRequest_ShouldHandleGracefully(name: &quot;&quot;, email: &quot;john@example.com&quot;, password: &quot;password123&quot;, role: &quot;User&quot;)" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="62c5f896-919b-62eb-136a-543ec7dc4b2c">
+      <Execution id="00273a56-8624-4f72-b19c-e54199cc2b2e" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerTests" name="RegisterUser_InvalidRequest_ShouldHandleGracefully" />
+    </UnitTest>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerIntegrationTests.Controller_ShouldHaveCorrectRouting" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="4e9b8f55-8fbb-8079-06cf-b59f45e40279">
+      <Execution id="48f5009a-3c01-4b78-8c35-eade3839f30b" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerIntegrationTests" name="Controller_ShouldHaveCorrectRouting" />
+    </UnitTest>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.GetUser_ExistingAdminUser_ReturnsUserData" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="7a4b1100-cede-f4d7-4c27-e265f3c747c8">
+      <Execution id="57eac356-76e8-40fb-b671-bfb2867567f6" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerTests" name="GetUser_ExistingAdminUser_ReturnsUserData" />
+    </UnitTest>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.RegisterUser_InvalidRequest_ShouldHandleGracefully(name: &quot;John&quot;, email: &quot;john@example.com&quot;, password: &quot;&quot;, role: &quot;User&quot;)" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="0375d458-b45d-b96b-c06f-2b7a0523f72d">
+      <Execution id="b8a56e92-54b9-4f16-b2c5-ccece27c4b25" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerTests" name="RegisterUser_InvalidRequest_ShouldHandleGracefully" />
+    </UnitTest>
+    <UnitTest name="PaymentGateway.Users.Tests.Controllers.UsersControllerTests.ValidateUser_ValidAdminCredentials_ReturnsValidWithAdminRole" storage="/users/fabiolucioribeiro/portifolio/projetos/07 paymentgateway/tests/paymentgateway.users.tests/bin/debug/net9.0/paymentgateway.users.tests.dll" id="4934fecd-9a9c-4619-01a5-4c27bec3bf3d">
+      <Execution id="60f36af4-43e8-4f75-b438-a69954aed5ad" />
+      <TestMethod codeBase="/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Users.Tests/bin/Debug/net9.0/PaymentGateway.Users.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="PaymentGateway.Users.Tests.Controllers.UsersControllerTests" name="ValidateUser_ValidAdminCredentials_ReturnsValidWithAdminRole" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="28610b9a-63db-34ec-1a6e-95b05678742c" executionId="3038001c-5c09-4514-b361-ec6abbe7f7be" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0375d458-b45d-b96b-c06f-2b7a0523f72d" executionId="b8a56e92-54b9-4f16-b2c5-ccece27c4b25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4934fecd-9a9c-4619-01a5-4c27bec3bf3d" executionId="60f36af4-43e8-4f75-b438-a69954aed5ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4e9b8f55-8fbb-8079-06cf-b59f45e40279" executionId="48f5009a-3c01-4b78-8c35-eade3839f30b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5cdcd28f-3c2c-b86b-26e6-e41defcdda7c" executionId="85162601-24b2-47da-a608-e4b2faac769f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0a1ef3b7-519d-9636-efd5-2f99e9302613" executionId="2c9b6967-422f-4f6c-aece-4c1829cb4cf0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="62c5f896-919b-62eb-136a-543ec7dc4b2c" executionId="00273a56-8624-4f72-b19c-e54199cc2b2e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a4b1100-cede-f4d7-4c27-e265f3c747c8" executionId="57eac356-76e8-40fb-b671-bfb2867567f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ddc01bc0-e20f-153a-2c51-c65ffd789805" executionId="7951091c-0aaa-4b32-aaf3-fc94e80944dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bbff7e89-319f-4a15-47db-e8b4ae95a11c" executionId="c8bc23ee-d28d-4bad-9613-08c51980fae9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7f278ab2-bb91-6625-74bd-87abf1a10a29" executionId="04a0d5b8-b966-4339-ac9e-f3b9a165c43f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="11" executed="11" passed="11" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 9.0.4)
+[xUnit.net 00:00:00.28]   Discovering: PaymentGateway.Users.Tests
+[xUnit.net 00:00:00.29]   Discovered:  PaymentGateway.Users.Tests
+[xUnit.net 00:00:00.30]   Starting:    PaymentGateway.Users.Tests
+[xUnit.net 00:00:00.35]   Finished:    PaymentGateway.Users.Tests
+</StdOut>
+    </Output>
+    <CollectorDataEntries>
+      <Collector agentName="MacBook-Pro-de-Fabio" uri="datacollector://microsoft/CoverletCodeCoverage/1.0" collectorDisplayName="XPlat code coverage">
+        <UriAttachments>
+          <UriAttachment>
+            <A href="MacBook-Pro-de-Fabio/coverage.cobertura.xml"></A>
+          </UriAttachment>
+        </UriAttachments>
+      </Collector>
+    </CollectorDataEntries>
+  </ResultSummary>
+</TestRun>

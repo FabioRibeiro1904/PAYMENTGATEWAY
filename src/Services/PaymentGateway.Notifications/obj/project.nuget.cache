@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YvRAHam5I40=",
+  "success": true,
+  "projectFilePath": "/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/PaymentGateway.Notifications.csproj",
+  "expectedPackageFiles": [
+    "/Users/fabiolucioribeiro/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/fabiolucioribeiro/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

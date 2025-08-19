@@ -1,0 +1,17 @@
+### Test Payments API with Mock Services
+### This tests our transaction system with mock services
+
+# Test payment transaction with mock implementation
+POST http://localhost:5077/api/payments/transfer
+Content-Type: application/json
+
+{
+    "fromEmail": "user1@test.com",
+    "toAgencia": "1234",
+    "toConta": "567890",
+    "amount": 100.00
+}
+
+### Test SignalR Hub connection
+# Connect to SignalR hub first, then run the transaction above
+# WebSocket connection: ws://localhost:5077/transactionHub

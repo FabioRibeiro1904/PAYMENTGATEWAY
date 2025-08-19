@@ -1,0 +1,78 @@
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Initialized 5 test users for transaction processing
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.TransactionProcessor
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR connection established
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Kafka consumer started, listening to topic: payment-transactions
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction a801a4a5-6476-487e-af48-891557689b0a
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 15.00 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction a801a4a5-6476-487e-af48-891557689b0a, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction a801a4a5-6476-487e-af48-891557689b0a
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction afad59d9-5288-47ca-8bb7-137ca6f2c204
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 25.00 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction afad59d9-5288-47ca-8bb7-137ca6f2c204, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction afad59d9-5288-47ca-8bb7-137ca6f2c204
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 314b4ea6-dbfb-4a73-a8a2-a4ae7f91b55f
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 50.00 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction 314b4ea6-dbfb-4a73-a8a2-a4ae7f91b55f, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction 314b4ea6-dbfb-4a73-a8a2-a4ae7f91b55f
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Initialized 5 test users for transaction processing
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.TransactionProcessor
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR connection established
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Kafka consumer started, listening to topic: payment-transactions
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction bd61c7fe-a2dc-429a-830a-cf3434ed42a9
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ Payment processed: 99.99 from teste15@gmail.com to Admin (admin@paymentgateway.com)
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      📡 Sending SignalR notification for transaction bd61c7fe-a2dc-429a-830a-cf3434ed42a9, status: Completed
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ✅ SignalR notification sent successfully for transaction bd61c7fe-a2dc-429a-830a-cf3434ed42a9
+info: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      🔄 Processing transaction 36e3921d-a17a-408c-af00-b2cdbe1b7170
+fail: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      💥 Error processing transaction 36e3921d-a17a-408c-af00-b2cdbe1b7170
+      System.InvalidOperationException: The 'SendCoreAsync' method cannot be called if the connection is not active
+         at Microsoft.AspNetCore.SignalR.Client.HubConnection.ReconnectingConnectionState.WaitForActiveConnectionAsync(String methodName, CancellationToken token)
+         at Microsoft.AspNetCore.SignalR.Client.HubConnection.WaitForActiveConnectionWithActivityAsync(String sendingMethodName, String invokedMethodName, CancellationToken token)
+         at Microsoft.AspNetCore.SignalR.Client.HubConnection.SendCoreAsyncCore(String methodName, Object[] args, CancellationToken cancellationToken)
+         at Microsoft.AspNetCore.SignalR.Client.HubConnection.SendCoreAsync(String methodName, Object[] args, CancellationToken cancellationToken)
+         at PaymentGateway.TransactionProcessor.TransactionProcessorService.ProcessTransactionAsync(String transactionJson) in /Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.TransactionProcessor/TransactionProcessorService.cs:line 185
+fail: PaymentGateway.TransactionProcessor.TransactionProcessorService[0]
+      ❌ Error sending SignalR notification
+      System.InvalidOperationException: The 'SendCoreAsync' method cannot be called if the connection is not active
+         at Microsoft.AspNetCore.SignalR.Client.HubConnection.ReconnectingConnectionState.WaitForActiveConnectionAsync(String methodName, CancellationToken token)
+         at Microsoft.AspNetCore.SignalR.Client.HubConnection.WaitForActiveConnectionWithActivityAsync(String sendingMethodName, String invokedMethodName, CancellationToken token)
+         at Microsoft.AspNetCore.SignalR.Client.HubConnection.SendCoreAsyncCore(String methodName, Object[] args, CancellationToken cancellationToken)
+         at Microsoft.AspNetCore.SignalR.Client.HubConnection.SendCoreAsync(String methodName, Object[] args, CancellationToken cancellationToken)
+         at PaymentGateway.TransactionProcessor.TransactionProcessorService.ProcessTransactionAsync(String transactionJson) in /Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.TransactionProcessor/TransactionProcessorService.cs:line 280
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...

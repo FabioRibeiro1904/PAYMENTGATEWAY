@@ -1,0 +1,66 @@
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.csproj.AssemblyReference.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.AssemblyInfoInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.AssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.csproj.CoreCompileInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.MvcApplicationPartsAssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.MvcApplicationPartsAssemblyInfo.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/appsettings.Development.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/appsettings.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications.staticwebassets.endpoints.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications.deps.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications.runtimeconfig.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/scopedcss/bundle/PaymentGateway.Notifications.styles.css
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets.build.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets.development.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets/msbuild.PaymentGateway.Notifications.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets/msbuild.PaymentGateway.Notifications.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets/msbuild.build.PaymentGateway.Notifications.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.PaymentGateway.Notifications.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.PaymentGateway.Notifications.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentG.F5C31E39.Up2Date
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/refint/PaymentGateway.Notifications.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.genruntimeconfig.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 - /src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/ref/PaymentGateway.Notifications.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/appsettings.Development.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/appsettings.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications.staticwebassets.endpoints.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications.deps.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications.runtimeconfig.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/PaymentGateway.Notifications.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.csproj.AssemblyReference.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.AssemblyInfoInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.AssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.csproj.CoreCompileInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.MvcApplicationPartsAssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.MvcApplicationPartsAssemblyInfo.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/scopedcss/bundle/PaymentGateway.Notifications.styles.css
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets.build.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets.development.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets/msbuild.PaymentGateway.Notifications.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets/msbuild.PaymentGateway.Notifications.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets/msbuild.build.PaymentGateway.Notifications.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.PaymentGateway.Notifications.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.PaymentGateway.Notifications.props
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentG.F5C31E39.Up2Date
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/refint/PaymentGateway.Notifications.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/PaymentGateway.Notifications.genruntimeconfig.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Notifications/obj/Debug/net9.0/ref/PaymentGateway.Notifications.dll

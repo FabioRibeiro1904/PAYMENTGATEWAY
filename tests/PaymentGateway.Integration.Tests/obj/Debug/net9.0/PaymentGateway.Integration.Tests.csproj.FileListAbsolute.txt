@@ -1,0 +1,7 @@
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Integration.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_PaymentGateway.Integration.Tests
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Integration.Tests/obj/Debug/net9.0/PaymentGateway.Integration.Tests.csproj.AssemblyReference.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Integration.Tests/obj/Debug/net9.0/MvcTestingAppManifest.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Integration.Tests/obj/Debug/net9.0/PaymentGateway.Integration.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Integration.Tests/obj/Debug/net9.0/PaymentGateway.Integration.Tests.AssemblyInfoInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Integration.Tests/obj/Debug/net9.0/PaymentGateway.Integration.Tests.AssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/tests/PaymentGateway.Integration.Tests/obj/Debug/net9.0/PaymentGateway.Integration.Tests.csproj.CoreCompileInputs.cache

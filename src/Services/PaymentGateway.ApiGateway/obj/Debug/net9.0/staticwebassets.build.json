@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "paQvtYNZ1RFlHWsnj0ahDsApuqVfzpL3vqRIdvhK+u4=",
+  "Source": "PaymentGateway.ApiGateway",
+  "BasePath": "_content/PaymentGateway.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
