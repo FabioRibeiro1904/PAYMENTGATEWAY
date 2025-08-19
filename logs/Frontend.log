@@ -3,43 +3,7 @@
 > vite
 
 
-  VITE v7.1.2  ready in 88 ms
+  VITE v7.1.2  ready in 85 ms
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
-5:46:21 AM [vite] (client) hmr update /src/App.tsx
-5:46:29 AM [vite] (client) hmr update /src/App.tsx
-5:46:36 AM [vite] (client) hmr update /src/App.tsx
-5:46:43 AM [vite] (client) hmr update /src/App.tsx
-5:46:51 AM [vite] (client) hmr update /src/App.tsx
-5:47:25 AM [vite] (client) hmr update /src/App.tsx
-5:47:35 AM [vite] (client) hmr update /src/App.tsx
-5:47:44 AM [vite] (client) hmr update /src/App.tsx
-5:47:52 AM [vite] (client) hmr update /src/App.tsx
-5:47:59 AM [vite] (client) hmr update /src/App.tsx
-5:48:07 AM [vite] (client) hmr update /src/App.tsx
-5:48:16 AM [vite] (client) hmr update /src/App.tsx
-5:48:23 AM [vite] (client) hmr update /src/App.tsx
-5:48:30 AM [vite] (client) hmr update /src/App.tsx
-5:48:40 AM [vite] (client) hmr update /src/App.tsx
-5:48:50 AM [vite] (client) hmr update /src/App.tsx
-5:48:58 AM [vite] (client) hmr update /src/App.tsx
-5:49:04 AM [vite] (client) hmr update /src/App.tsx
-5:49:12 AM [vite] (client) hmr update /src/App.tsx
-5:49:19 AM [vite] (client) hmr update /src/App.tsx
-5:49:27 AM [vite] (client) hmr update /src/App.tsx
-5:49:34 AM [vite] (client) hmr update /src/App.tsx
-5:52:21 AM [vite] vite.config.ts changed, restarting server...
-5:52:21 AM [vite] (client) hmr update /src/App.tsx
-5:52:21 AM [vite] (client) page reload src/main.tsx
-✘ [ERROR] Unterminated string literal
-
-    vite.config.ts:10:22:
-      10 │         target: 'http:
-         ╵                       ^
-
-failed to load config from /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Frontend/payment-gateway-frontend/vite.config.ts
-5:52:21 AM [vite] Build failed with 1 error:
-vite.config.ts:10:22: ERROR: Unterminated string literal
-5:52:21 AM [vite] server restart failed
-5:55:21 AM [vite] (client) hmr update /src/App.tsx

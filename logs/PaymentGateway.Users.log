@@ -11,12 +11,8 @@ info: Microsoft.Hosting.Lifetime[0]
 info: Microsoft.Hosting.Lifetime[0]
       Content root path: /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Users
 info: PaymentGateway.Users.Controllers.UsersController[0]
-      Registering user: teste@gmail.com
+      Registering user: test2@example.com
 info: PaymentGateway.Users.Controllers.UsersController[0]
-      Getting user: teste@gmail.com
+      Registering user: fabio001@gmail.com
 info: PaymentGateway.Users.Controllers.UsersController[0]
-      Getting user: teste@gmail.com
-info: PaymentGateway.Users.Controllers.UsersController[0]
-      Getting user: teste@gmail.com
-info: Microsoft.Hosting.Lifetime[0]
-      Application is shutting down...
+      Getting user: fabio001@gmail.com

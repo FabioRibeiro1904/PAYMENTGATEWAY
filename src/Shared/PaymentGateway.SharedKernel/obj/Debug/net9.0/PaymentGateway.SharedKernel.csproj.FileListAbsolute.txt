@@ -1,0 +1,12 @@
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/bin/Debug/net9.0/PaymentGateway.SharedKernel.deps.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/bin/Debug/net9.0/PaymentGateway.SharedKernel.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/bin/Debug/net9.0/PaymentGateway.SharedKernel.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/obj/Debug/net9.0/PaymentGateway.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/obj/Debug/net9.0/PaymentGateway.SharedKernel.AssemblyInfoInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/obj/Debug/net9.0/PaymentGateway.SharedKernel.AssemblyInfo.cs
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/obj/Debug/net9.0/PaymentGateway.SharedKernel.csproj.CoreCompileInputs.cache
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/obj/Debug/net9.0/PaymentGateway.SharedKernel.sourcelink.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/obj/Debug/net9.0/PaymentGateway.SharedKernel.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/obj/Debug/net9.0/refint/PaymentGateway.SharedKernel.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/obj/Debug/net9.0/PaymentGateway.SharedKernel.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Shared/PaymentGateway.SharedKernel/obj/Debug/net9.0/ref/PaymentGateway.SharedKernel.dll

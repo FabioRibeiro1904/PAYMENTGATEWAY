@@ -36,7 +36,7 @@ app.MapGrpcService<PaymentGateway.Users.Services.GrpcUsersService>();
 app.MapGet("/health", () => new { Status = "Healthy", Service = "PaymentGateway.Users", Timestamp = DateTime.UtcNow });
 if (app.Environment.IsDevelopment())
 {
-    app.MapGet("/", () => "Communication with gRPC endpoints must be made through a gRPC client. To learn how to create a client, visit: https:
+    app.MapGet("/", () => "Communication with gRPC endpoints must be made through a gRPC client. To learn how to create a client, visit: https://go.microsoft.com/fwlink/?linkid=2086909");
 }
 
 app.Run();

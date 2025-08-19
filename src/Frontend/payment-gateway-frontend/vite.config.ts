@@ -7,12 +7,12 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '/api': {
-        target: 'http:
+        target: 'http://localhost:5080',
         changeOrigin: true,
         secure: false,
       },
       '/gateway': {
-        target: 'http:
+        target: 'http://localhost:5080',
         changeOrigin: true,
         secure: false,
         rewrite: (path) => path.replace(/^\/gateway/, '')

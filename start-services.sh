@@ -10,16 +10,48 @@ if ! docker ps > /dev/null 2>&1; then
     exit 1
 fi
 
-# Verificar se a infraestrutura está rodando
-echo "🔍 Verificando infraestrutura..."
-if ! docker exec redis redis-cli ping > /dev/null 2>&1; then
-    echo "❌ Redis não está rodando! Execute 'docker-compose -f docker-compose.infra.yml up -d' primeiro."
-    exit 1
-fi
+# Verificar e iniciar a infraestrutura Docker
+echo "🔍 Verificando infraestrutura Docker..."
 
-if ! docker exec kafka kafka-broker-api-versions --bootstrap-server localhost:9092 > /dev/null 2>&1; then
-    echo "❌ Kafka não está rodando! Execute 'docker-compose -f docker-compose.infra.yml up -d' primeiro."
-    exit 1
+# Verificar se os containers já estão rodando
+REDIS_RUNNING=$(docker ps --filter "name=redis" --filter "status=running" -q)
+KAFKA_RUNNING=$(docker ps --filter "name=kafka" --filter "status=running" -q)
+
+if [ -z "$REDIS_RUNNING" ] || [ -z "$KAFKA_RUNNING" ]; then
+    echo "🐳 Iniciando infraestrutura Docker (Redis, Kafka, Zookeeper)..."
+    docker-compose -f docker-compose.infra.yml up -d
+    
+    echo "⏳ Aguardando infraestrutura ficar pronta..."
+    
+    # Aguardar Redis ficar pronto
+    echo "🔄 Aguardando Redis..."
+    until docker exec redis redis-cli ping > /dev/null 2>&1; do
+        echo "   ⏳ Redis ainda não está pronto..."
+        sleep 2
+    done
+    echo "✅ Redis está pronto!"
+    
+    # Aguardar Kafka ficar pronto
+    echo "🔄 Aguardando Kafka..."
+    until docker exec kafka kafka-broker-api-versions --bootstrap-server localhost:9092 > /dev/null 2>&1; do
+        echo "   ⏳ Kafka ainda não está pronto..."
+        sleep 3
+    done
+    echo "✅ Kafka está pronto!"
+    
+else
+    echo "✅ Infraestrutura Docker já está rodando!"
+    
+    # Verificar se estão saudáveis
+    if ! docker exec redis redis-cli ping > /dev/null 2>&1; then
+        echo "❌ Redis não está respondendo!"
+        exit 1
+    fi
+    
+    if ! docker exec kafka kafka-broker-api-versions --bootstrap-server localhost:9092 > /dev/null 2>&1; then
+        echo "❌ Kafka não está respondendo!"
+        exit 1
+    fi
 fi
 
 echo "✅ Infraestrutura OK!"
@@ -134,6 +166,10 @@ echo "├── PaymentGateway.ApiGateway: http://localhost:5080"
 echo "├── PaymentGateway.Users: http://localhost:5076"
 echo "├── PaymentGateway.Payments: http://localhost:5077"
 echo "├── PaymentGateway.TransactionProcessor: Background Kafka Consumer"
+echo ""
+echo "📋 INFRAESTRUTURA DOCKER:"
+echo "├── Redis: localhost:6379"
+echo "├── Kafka: localhost:9092"
 echo "├── Kafka UI: http://localhost:8082"
 echo "└── Redis Commander: http://localhost:8081"
 echo ""
@@ -173,4 +209,5 @@ echo "├── logs/PaymentGateway.Users.log"
 echo "├── logs/PaymentGateway.Payments.log"
 echo "└── logs/PaymentGateway.TransactionProcessor.log"
 echo ""
-echo "🛑 Para parar todos os serviços, execute: ./stop-services.sh"
+echo "🛑 Para parar os serviços: ./stop-services.sh"
+echo "🐳 Para parar a infraestrutura Docker: docker-compose -f docker-compose.infra.yml down"

@@ -11,6 +11,7 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
           "Microsoft.AspNetCore.OpenApi": "9.0.0",
           "Microsoft.Extensions.Caching.StackExchangeRedis": "9.0.0",
+          "PaymentGateway.SharedKernel": "1.0.0",
           "Serilog.AspNetCore": "8.0.0",
           "Swashbuckle.AspNetCore": "7.2.0",
           "Yarp.ReverseProxy": "2.1.0"
@@ -412,6 +413,14 @@
             "fileVersion": "2.100.23.56701"
           }
         }
+      },
+      "PaymentGateway.SharedKernel/1.0.0": {
+        "runtime": {
+          "PaymentGateway.SharedKernel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -742,6 +751,11 @@
       "sha512": "sha512-VgRuCBxmh5ND4VuFhvIN3AAeoxFhYkS2hNINk6AVCrOVTlpk7OwdrTXi8NHACfqfhDL+/oYCZrF9RxN+yiYnEg==",
       "path": "yarp.reverseproxy/2.1.0",
       "hashPath": "yarp.reverseproxy.2.1.0.nupkg.sha512"
+    },
+    "PaymentGateway.SharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

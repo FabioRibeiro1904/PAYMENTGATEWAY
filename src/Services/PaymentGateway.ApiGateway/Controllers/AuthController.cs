@@ -46,7 +46,7 @@ public class AuthController : ControllerBase
         {
             
             var httpClient = new HttpClient();
-            var validateResponse = await httpClient.PostAsJsonAsync("http:
+            var validateResponse = await httpClient.PostAsJsonAsync("http://localhost:5076/api/users/validate", new
             {
                 Email = request.Email,
                 Password = request.Password
@@ -66,7 +66,7 @@ public class AuthController : ControllerBase
             }
 
             
-            var userResponse = await httpClient.GetAsync($"http:
+            var userResponse = await httpClient.GetAsync($"http://localhost:5076/api/users/{request.Email}");
             if (!userResponse.IsSuccessStatusCode)
             {
                 return StatusCode(500, new { error = "Error retrieving user data" });
@@ -104,7 +104,7 @@ public class AuthController : ControllerBase
         {
             
             var httpClient = new HttpClient();
-            var registerResponse = await httpClient.PostAsJsonAsync("http:
+            var registerResponse = await httpClient.PostAsJsonAsync("http://localhost:5076/api/users/register", new
             {
                 Name = request.Name,
                 Email = request.Email,
@@ -235,7 +235,7 @@ public class AuthController : ControllerBase
         {
             
             var httpClient = new HttpClient();
-            var transferResponse = await httpClient.PostAsJsonAsync("http:
+            var transferResponse = await httpClient.PostAsJsonAsync("http://localhost:5077/api/payments/transfer", request);
 
             if (!transferResponse.IsSuccessStatusCode)
             {

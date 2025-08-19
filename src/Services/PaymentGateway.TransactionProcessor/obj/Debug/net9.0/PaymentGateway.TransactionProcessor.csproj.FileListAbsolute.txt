@@ -88,3 +88,4 @@
 /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.TransactionProcessor/obj/Debug/net9.0/PaymentGateway.TransactionProcessor.dll
 /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.TransactionProcessor/obj/Debug/net9.0/refint/PaymentGateway.TransactionProcessor.dll
 /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.TransactionProcessor/obj/Debug/net9.0/PaymentGateway.TransactionProcessor.pdb
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.TransactionProcessor/obj/Debug/net9.0/PaymentGateway.TransactionProcessor.sourcelink.json

@@ -87,7 +87,7 @@ public class RequestLoggingAndMonitoringMiddleware
 
     private string GetSanitizedUrl(HttpRequest request)
     {
-        var url = $"{request.Scheme}:
+        var url = $"{request.Scheme}://{request.Host}{request.Path}{request.QueryString}";
         
         
         var sensitiveParams = new[] { "password", "token", "secret", "key", "authorization" };

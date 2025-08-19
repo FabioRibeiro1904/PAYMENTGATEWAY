@@ -104,3 +104,4 @@
 /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Users/obj/Debug/net9.0/PaymentG.3240EE3C.Up2Date
 /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Users/obj/Debug/net9.0/PaymentGateway.Users.genruntimeconfig.cache
 /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Users/obj/Debug/net9.0/ref/PaymentGateway.Users.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.Users/obj/Debug/net9.0/PaymentGateway.Users.sourcelink.json

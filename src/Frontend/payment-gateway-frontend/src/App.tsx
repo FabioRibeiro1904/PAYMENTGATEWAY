@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import * as signalR from '@microsoft/signalr';
-import { Shield, Eye, EyeOff, Activity, Users, CreditCard, Settings, UserPlus, Send, History } from 'lucide-react';
+import { Shield, Eye, EyeOff, Activity, Users, CreditCard, Settings, Send, History } from 'lucide-react';
 import './App.css';
 
-const API_GATEWAY_URL = 'http:
+const API_GATEWAY_URL = 'http://localhost:5080';
 
 interface LoginRequest {
   email: string;
@@ -108,10 +108,10 @@ function App() {
     if (isAuthenticated && user) {
       const setupSignalR = async () => {
         try {
-          console.log('🔧 Creating SignalR connection to:', `http:
+          console.log('🔧 Creating SignalR connection to:', `http://localhost:5078/transactionHub`);
           
           const newConnection = new signalR.HubConnectionBuilder()
-            .withUrl(`http:
+            .withUrl(`http://localhost:5078/transactionHub`)
             .configureLogging(signalR.LogLevel.Debug)
             .build();
 
@@ -240,7 +240,7 @@ function App() {
   const loadTransactions = async () => {
     try {
       setLoading(true);
-      const response = await axios.get(`http:
+      const response = await axios.get(`http://localhost:5077/api/payments/transactions/${user?.email}`, {
         headers: {
           'Authorization': `Bearer ${localStorage.getItem('token')}`
         }
@@ -258,7 +258,7 @@ function App() {
     try {
       if (!user?.email) return;
       
-      const response = await axios.get(`http:
+      const response = await axios.get(`http://localhost:5076/api/users/balance/${user.email}`, {
         headers: {
           'Authorization': `Bearer ${localStorage.getItem('token')}`
         }

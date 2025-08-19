@@ -26,9 +26,9 @@ public class GatewayController : ControllerBase
 
         var services = new Dictionary<string, object>
         {
-            ["users"] = await CheckServiceHealth("http:
-            ["payments"] = await CheckServiceHealth("http:
-            ["notifications"] = await CheckServiceHealth("http:
+            ["users"] = await CheckServiceHealth("http://localhost:5003/health"),
+            ["payments"] = await CheckServiceHealth("http://localhost:5002/health"),
+            ["notifications"] = await CheckServiceHealth("http://localhost:5001/health")
         };
 
         var gatewayStatus = new
@@ -97,21 +97,21 @@ public class GatewayController : ControllerBase
             Users = new
             {
                 Pattern = "/api/users/{**catch-all}",
-                Destination = "http:
+                Destination = "http://localhost:5003",
                 HealthCheck = "/health",
                 LoadBalancing = "RoundRobin"
             },
             Payments = new
             {
                 Pattern = "/api/payments/{**catch-all}",
-                Destination = "http:
+                Destination = "http://localhost:5002",
                 HealthCheck = "/health",
                 LoadBalancing = "RoundRobin"
             },
             Notifications = new
             {
                 Pattern = "/api/notifications/{**catch-all}",
-                Destination = "http:
+                Destination = "http://localhost:5001",
                 HealthCheck = "/health",
                 LoadBalancing = "RoundRobin"
             },

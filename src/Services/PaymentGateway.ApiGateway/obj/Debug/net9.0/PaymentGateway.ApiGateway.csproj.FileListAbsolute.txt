@@ -114,3 +114,6 @@
 /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentG.1CFAF752.Up2Date
 /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.genruntimeconfig.cache
 /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/ref/PaymentGateway.ApiGateway.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/obj/Debug/net9.0/PaymentGateway.ApiGateway.sourcelink.json
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.SharedKernel.dll
+/Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Services/PaymentGateway.ApiGateway/bin/Debug/net9.0/PaymentGateway.SharedKernel.pdb
