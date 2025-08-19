@@ -7,3 +7,4 @@
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
+8:26:00 PM [vite] changed tsconfig file detected: /Users/fabiolucioribeiro/Portifolio/Projetos/07 PaymentGateway/src/Frontend/payment-gateway-frontend/tsconfig.app.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
